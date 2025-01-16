@@ -20,7 +20,7 @@
 To get started, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/TaniaChauhan25/90-North-Task.git
+git clone https://github.com/taniachauhan/90-North-Task
 
 ```
 
